@@ -16,7 +16,6 @@ In this tutorial we will explain how the  regex functions, by breaking down each
 ## Table of Content
 
 
-- [Table of Content](#table-of-content)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Link](#link)
