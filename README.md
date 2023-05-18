@@ -16,18 +16,14 @@ In this tutorial we will explain how the  regex functions, by breaking down each
 ## Table of Content
 
 
-- [Regex Tutorial](#regex-tutorial)
-  - [Description](#description)
-  - [Table of Content](#table-of-content)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Link](#link)
-  - [License](#license)
-  - [Contributing](#contributing)
-  - [Questions and Issues](#questions-and-issues)
-    - [GitHub accunt](#github-accunt)
-    - [Email me](#email-me)
- 
+- [Table of Content](#table-of-content)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Link](#link)
+- [License](#license)
+- [Contributing](#contributing)
+- [Questions and Issues](#questions-and-issues)
+  
 
 </br>
 
